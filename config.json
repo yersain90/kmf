@@ -1,0 +1,10 @@
+{
+    "db" : {
+        "port": "1433",
+        "user": "SA",
+        "database": "TEST",
+        "password": "12345Testdb"
+    },
+    "port": "8080"
+}
+
